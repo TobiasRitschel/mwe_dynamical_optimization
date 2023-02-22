@@ -1,4 +1,4 @@
-# mwe_dynamical_optimization
+# MWE Dynamical Optimization
 This repository contains a minimal working example (MWE) of how to solve a dynamic optimization problem in Matlab using a single-shooting approach implemented with fmincon and ode45.
 
 The example system is
