@@ -160,5 +160,5 @@ y = outp(t, x, u);
 Phi = stageCost(t, x, u, y);
 
 % Evaluate objective function
-J = sum(Phi(2:end).*diff(tspan(:)));
+J = sum(Phi(2:end).*diff(t(:)));
 end
