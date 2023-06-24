@@ -3,7 +3,7 @@ This repository contains a minimal working example (MWE) of how to solve a dynam
 
 The example system is
 
-dx/dt = -x + u,
+dx/dt = -x^3 + u,
 
 and the objective is to minimize
 
